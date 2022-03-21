@@ -5,6 +5,8 @@ You also have the Solidworks files and link to aliexpress
 
 ![alt text](https://github.com/ccadic/LongLEDFootprints/blob/main/kicad1.jpg)
 
+![alt text](https://github.com/ccadic/LongLEDFootprints/blob/main/mega-digit/panel2.JPG)
+
 Link here: https://fr.aliexpress.com/item/1005003361797045.html
 
 GPL3 licence
